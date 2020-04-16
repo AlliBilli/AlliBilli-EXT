@@ -1,2 +1,1 @@
-# AlliBilli-EXT
-AlliBilli.com, Think Special
+# allibilli application
