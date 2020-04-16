@@ -1,3 +1,3 @@
-# AlliBilli.com - Thinks Special
+# AlliBilli.com - Think Special
 
 ## An EXT JS Application
